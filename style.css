@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+    background-color: aquamarine;
+
+    
+}
+    main{
+        
+        background-image: url("konoha.jpg" );
+        
+          }
+
+    
+     .row::after {
+        clear: both;
+     }
+     
+footer{
+    background-color: #b38ef8;
+    text-align: center;
+}
+    
+
+
